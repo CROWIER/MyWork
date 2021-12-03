@@ -1,0 +1,16 @@
+C:\Users\Askar\RiderProjects\GroupProject\GroupProject\bin\Debug\net5.0\GroupProject.exe
+C:\Users\Askar\RiderProjects\GroupProject\GroupProject\bin\Debug\net5.0\GroupProject.deps.json
+C:\Users\Askar\RiderProjects\GroupProject\GroupProject\bin\Debug\net5.0\GroupProject.runtimeconfig.json
+C:\Users\Askar\RiderProjects\GroupProject\GroupProject\bin\Debug\net5.0\GroupProject.runtimeconfig.dev.json
+C:\Users\Askar\RiderProjects\GroupProject\GroupProject\bin\Debug\net5.0\GroupProject.dll
+C:\Users\Askar\RiderProjects\GroupProject\GroupProject\bin\Debug\net5.0\ref\GroupProject.dll
+C:\Users\Askar\RiderProjects\GroupProject\GroupProject\bin\Debug\net5.0\GroupProject.pdb
+C:\Users\Askar\RiderProjects\GroupProject\GroupProject\obj\Debug\net5.0\GroupProject.csproj.AssemblyReference.cache
+C:\Users\Askar\RiderProjects\GroupProject\GroupProject\obj\Debug\net5.0\GroupProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Askar\RiderProjects\GroupProject\GroupProject\obj\Debug\net5.0\GroupProject.AssemblyInfoInputs.cache
+C:\Users\Askar\RiderProjects\GroupProject\GroupProject\obj\Debug\net5.0\GroupProject.AssemblyInfo.cs
+C:\Users\Askar\RiderProjects\GroupProject\GroupProject\obj\Debug\net5.0\GroupProject.csproj.CoreCompileInputs.cache
+C:\Users\Askar\RiderProjects\GroupProject\GroupProject\obj\Debug\net5.0\GroupProject.dll
+C:\Users\Askar\RiderProjects\GroupProject\GroupProject\obj\Debug\net5.0\ref\GroupProject.dll
+C:\Users\Askar\RiderProjects\GroupProject\GroupProject\obj\Debug\net5.0\GroupProject.pdb
+C:\Users\Askar\RiderProjects\GroupProject\GroupProject\obj\Debug\net5.0\GroupProject.genruntimeconfig.cache
